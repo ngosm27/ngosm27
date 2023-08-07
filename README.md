@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a flutter project
+- 🌱 I’m currently learning dart and aws
+- 📫 How to reach me: ngo.susan.m@gmail.com
+
 <!--
 **ngosm27/ngosm27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
